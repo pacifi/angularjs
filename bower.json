@@ -4,7 +4,7 @@
   "authors": [
     "Pacifi"
   ],
-  "description": "Xample the Javascript language",
+  "description": "Xamp the Javascript language",
   "main": "./stellar-sdk.min.js",
   "keywords": [
     "stellar"
