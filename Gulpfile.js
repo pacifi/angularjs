@@ -61,7 +61,7 @@ gulp.task('inject', function() {
 
  // Inyecta las librerias que instalemos vía Bower
  gulp.task('wiredep', function () {
-   gulp.src('./app/*s.html')
+   gulp.src('./app/*.html')
      .pipe(wiredep({
        directory: './app/lib'
      }))
